@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranav684
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in creating Android/ iOS Application.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on App development using flutter
 - 📫 How to reach me ...linkedin: https://www.linkedin.com/in/pranav-srivastava-33a20b191
